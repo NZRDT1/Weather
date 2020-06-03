@@ -21,3 +21,5 @@ Required additonal software:
 - sudo ./install.sh
 - pip3 install adafruit-io
 - sudo apt install python3
+
+![Image of Dashboard](https://raw.githubusercontent.com/NZRDT1/Weather/master/Weather.PNG)
